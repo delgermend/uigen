@@ -1,0 +1,25 @@
+   ▲ Next.js 15.5.12 (Turbopack)
+   - Local:        http://localhost:3000
+   - Network:      http://192.168.1.5:3000
+   - Environments: .env
+
+ ✓ Starting...
+ ○ Compiling middleware ...
+ ✓ Compiled middleware in 906ms
+ ✓ Ready in 3.2s
+ ○ Compiling / ...
+ ✓ Compiled / in 16.2s
+ GET / 200 in 17573ms
+ GET / 200 in 18106ms
+ ○ Compiling /favicon.ico ...
+ ✓ Compiled /favicon.ico in 813ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 1195ms
+ GET / 200 in 498ms
+ ○ Compiling /api/chat ...
+ ✓ Compiled /api/chat in 1134ms
+ POST /api/chat 200 in 9504ms
+ POST /api/chat 200 in 16203ms
+ POST /api/chat 200 in 26162ms
+ POST /api/chat 200 in 23371ms
+ POST /api/chat 200 in 21390ms
+[?25h
